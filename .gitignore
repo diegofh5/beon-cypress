@@ -1,0 +1,10 @@
+# Dependencies, local secrets, and files Cypress generates when tests run.
+node_modules/
+cypress.env.json
+cypress/videos/
+cypress/screenshots/
+cypress/reports/
+cypress/.tmp/
+dist/
+*.log
+.DS_Store

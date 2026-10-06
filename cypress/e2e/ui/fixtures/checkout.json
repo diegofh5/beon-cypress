@@ -1,0 +1,9 @@
+{
+  "itemsToBuy": 2,
+  "customer": {
+    "firstName": "Diego",
+    "lastName": "Fernandez",
+    "postalCode": "10101"
+  },
+  "orderConfirmation": "Thank you for your order!"
+}
