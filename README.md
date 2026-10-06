@@ -89,3 +89,7 @@ Some products do not respond when "Add to cart" is clicked. The button remains u
 ### Severity
 
 High
+
+<img width="1705" height="1080" alt="Screenshot 2026-10-05 at 8 43 05 PM" src="https://github.com/user-attachments/assets/181cac29-38ef-47f4-be3d-d09b1b53e879" />
+<img width="1687" height="1066" alt="Screenshot 2026-10-05 at 8 43 36 PM" src="https://github.com/user-attachments/assets/9c5171fb-1765-4a46-96a1-eaa10928c117" />
+<img width="1682" height="646" alt="Screenshot 2026-10-05 at 9 05 44 PM" src="https://github.com/user-attachments/assets/75ca5f04-021e-410c-9436-a5a6bbea9c26" />
